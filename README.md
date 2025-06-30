@@ -18,6 +18,6 @@ For now, it's only intended to extract the **src_ip** and **dst_ip** from each p
 
 - [Hares Engine Extensions API](https://github.com/harescyber/hares_engine/tree/as-package#extensions-api)
 - [Hares Engine Repo](https://github.com/harescyber/hares_engine/tree/as-package#readme)
-- [Hares Engine Templates](https://github.com/harescyber/hares_engine_template_example/tree/main)
+- [Hares Engine Templates](https://github.com/harescyber/hares_engine_template_example)
 - [Example Inference Extension](https://github.com/harescyber/hares_engine_example_inference_extension.git)
 - [Example Reporting Extension](https://github.com/harescyber/hares_engine_example_reporting_extension.git)
